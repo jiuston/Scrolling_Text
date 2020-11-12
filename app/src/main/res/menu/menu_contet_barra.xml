@@ -4,14 +4,17 @@
     <item
         android:id="@+id/edit_barra"
         android:orderInCategory="10"
-        android:title="@string/edit_title" />
+        android:title="@string/edit_title"
+        android:icon="@drawable/ic_action_edit"/>
 
     <item
         android:id="@+id/Share_barra"
         android:orderInCategory="20"
-        android:title="@string/share_title" />
+        android:title="@string/share_title"
+        android:icon="@drawable/ic_action_share"/>
     <item
         android:id="@+id/Delete_barra"
         android:orderInCategory="30"
-        android:title="@string/delete_title" />
+        android:title="@string/delete_title"
+        android:icon="@drawable/ic_action_delete"/>
 </menu>

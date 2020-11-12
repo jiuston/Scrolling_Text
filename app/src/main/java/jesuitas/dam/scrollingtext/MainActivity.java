@@ -43,9 +43,13 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.Share_barra:
                     displayToast("Share de la barra");
                     return true;
-                //aqiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                case R.id.Delete_barra:
+                    displayToast("Delete de la barra");
+                    return true;
+                default:
+                    return false;
             }
-            return false;
+
         }
 
         @Override
