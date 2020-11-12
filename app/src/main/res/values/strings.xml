@@ -13,4 +13,5 @@ Imperdiet feugiat in mollis donec dis orci vulputate risus ad accumsan justo mon
     <string name="edit_text">Pulsaste en edit</string>
     <string name="share_text">Pulsaste en share</string>
     <string name="delete_text">Pulsaste en Delete</string>
+    <string name="saliendo">Saliendo del ActionMode</string>
 </resources>
